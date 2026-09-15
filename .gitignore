@@ -232,8 +232,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Microsoft Office temporary files
+# Portfolio
+Sales_Demand_Forecasting_Portfolio.pptx
 ~$*
-
-# PowerPoint temporary files
-~$*.pptx
